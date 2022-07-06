@@ -7,6 +7,9 @@ import App from './App';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <div className="container">
+     <h1 className="title">React Movie Search</h1>
+      <App />
+    </div>
   </React.StrictMode>
 );
