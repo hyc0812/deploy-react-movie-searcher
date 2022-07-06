@@ -10,3 +10,5 @@ npm start
 ```
 
 ![Image description](https://github.com/hyc0812/deploy-react-movie-searcher/blob/master/screenshot/screenshot-01.png)
+
+<img src="https://github.com/hyc0812/deploy-react-movie-searcher/blob/master/screenshot/screenshot-01.png" width="600">
