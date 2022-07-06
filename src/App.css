@@ -14,11 +14,12 @@ body {
 }
 
 p {
-  font-size: 1.6rem;
+  font-size: 1.7rem;
 }
 
 small {
-  font-size: 1.2rem;
+  font-size: 1.6rem;
+  color:mediumblue;
 }
 
 .container {
@@ -92,10 +93,10 @@ small {
 
 .card--title {
   margin-bottom: 0.5rem;
-  font-size: 3.2rem;
+  font-size: 2.8rem;
 }
 
 .card--image {
   margin: 0 auto;
-  display: block
+  display: block;
 }

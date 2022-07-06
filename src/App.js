@@ -39,7 +39,7 @@ export default function App(){
                     <div className="card" key={movie.id}>
                         <img className="card--image"
                             src={`https://image.tmdb.org/t/p/w185_and_h278_bestv2/${movie.poster_path}`}
-                            alt={movie.title + ' poster'}
+                            alt={movie.title + ' poster'} width="220"
                             />
                         <div className="card--content">
                         <h3 className="card--title">{movie.title}</h3>
