@@ -1,4 +1,4 @@
-> This is my React app Demo and [welcome to play](https://hyc0812.github.io/deploy-reactapp-typing-game/)
+> This is my React app Demo and [welcome to play](https://hyc0812.github.io/deploy-react-movie-searcher/)
 > GitRepo for this game
 
 - How To Use the repo?
